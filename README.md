@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Synthetic Data
+
+**Embryo Synthetic Data** is Embryo-Zero's fork of [distilabel](https://github.com/argilla-io/distilabel), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 > [!IMPORTANT]  
 The original authors have moved on to other projects. A group of community members have recently joined the GitHub project as collaborators to maintain the project and are actively working towards the next release. Check out the `develop` branch for access to the latest fixes and improvements in the meantime. 
 > 
